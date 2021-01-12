@@ -24,7 +24,7 @@
 /* CONFIG */
 
 :root {
---title: "‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒";
+--title: "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■";
 --background: url("https://succulentti.github.io/img/theme/bg.png");
 --font: "Whitney";
 --time: 10s;
@@ -32,16 +32,17 @@
 --Idle: rgb(0 99 156);
 --Unavailable: rgb(228 15 0);
 --Offline: rgb(90 95 100);
-/*
+
 --Playing: url("https://succulentti.github.io/img/theme/red.png");
 --Xbox: url("https://succulentti.github.io/img/theme/green.png");
 --Spotify: url("https://succulentti.github.io/img/theme/green.png");
 --Streaming: url("https://succulentti.github.io/img/theme/purple.png");
-*/
+/*
 --Playing: url("https://succulentti.github.io/img/theme/play.jpg");
 --Xbox: url("https://succulentti.github.io/img/theme/xbox.jpg");
 --Spotify: url("https://succulentti.github.io/img/theme/spotify.jpg");
 --Streaming: url("https://succulentti.github.io/img/theme/twitch.jpg");
+*/
 --grey: rgb(77 70 85);
 --darkgrey: rgb(18 18 18);
 --ChatBox: var(--darkgrey5);
